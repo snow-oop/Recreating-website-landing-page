@@ -1,11 +1,4 @@
-// const scroll = new LocomotiveScroll({
-//     el: document.querySelector('#main'),
-//     smooth: true
-// });
-
 //used from (locomotive js github page) bottom (scrolling) section code 
-
-
 function locomotiveAnimation(){
     gsap.registerPlugin(ScrollTrigger);
 
@@ -162,6 +155,3 @@ function cursorAnimation(){
 
 cursorAnimation()
 
-
-// video link on youthoob
-// https://youtu.be/bVyigcIt-ac?si=0iRcwZgltnvOgMHY
